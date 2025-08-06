@@ -2,7 +2,7 @@
 
 
   WorkCred – Freelance Gig Platform (Frontend)
-🚀 A responsive and interactive frontend for a freelance gig platform that helps connect freelancers with clients.
+A responsive and interactive frontend for a freelance gig platform that helps connect freelancers with clients.
 
 ## 🌐 Pages Built
 - 🏠 Home Page
@@ -15,7 +15,7 @@
 - JavaScript
 
 ## 📸 Screenshots
-*(Add screenshots here if you have them)*
+<img width="1744" height="887" alt="Image" src="https://github.com/user-attachments/assets/e32e6766-66b4-4290-b7b8-a7372621569c" />
 
 ## 💡 Future Scope
 - Backend integration
